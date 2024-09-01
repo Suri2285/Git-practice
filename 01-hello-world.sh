@@ -1,6 +1,6 @@
    #!/bin/bash
 
     # ctrl+s----> save
-    # Author -->
+    # Author --> suresh
     # Team--> Devops
-   echo :Hello world"
+   echo :"Hello world"
